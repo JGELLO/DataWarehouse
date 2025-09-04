@@ -1,14 +1,11 @@
-# Project Name
+# Data Warehousing
 
-A brief description of what this project does and who it's for.
+Building a modern data warehousing
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Bronze Medal
+- Silver Medal
+- Gold Medal
 
-## Installation
-Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/yourusername/project-name.git
